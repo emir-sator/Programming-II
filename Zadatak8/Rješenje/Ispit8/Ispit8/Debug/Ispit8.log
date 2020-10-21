@@ -1,0 +1,27 @@
+﻿  Ispit8.cpp
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(89,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(98,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(105,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(110,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(127,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(132,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(142,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(147,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(181,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(240,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(246,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(264,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(267,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(273,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(277,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(279,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(308,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(323,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(325,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(339,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(341,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(409,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(419,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(422,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit8\Ispit8\Ispit8.cpp(435,26): warning C4018: '<': signed/unsigned mismatch
+  Ispit8.vcxproj -> C:\Users\Emir\source\repos\Ispit8\Debug\Ispit8.exe

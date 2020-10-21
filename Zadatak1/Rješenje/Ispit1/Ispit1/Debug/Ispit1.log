@@ -1,0 +1,13 @@
+﻿  Ispit1.cpp
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(64,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(72,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(84,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(102,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(111,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(130,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(198,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(202,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(203,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(204,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(183): warning C4715: 'PronadjiNajskupljiArtikal': not all control paths return a value
+  Ispit1.vcxproj -> C:\Users\Emir\source\repos\Ispit1\Debug\Ispit1.exe

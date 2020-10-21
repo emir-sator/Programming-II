@@ -1,0 +1,4 @@
+﻿  Ispit9.cpp
+C:\Users\Emir\source\repos\Ispit9\Ispit9\Ispit9.cpp(345,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Emir\source\repos\Ispit9\Ispit9\Ispit9.cpp(482,23): warning C4018: '<': signed/unsigned mismatch
+  Ispit9.vcxproj -> C:\Users\Emir\source\repos\Ispit9\Debug\Ispit9.exe

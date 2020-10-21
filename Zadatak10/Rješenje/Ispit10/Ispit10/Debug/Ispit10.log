@@ -1,0 +1,12 @@
+﻿  Ispit10.cpp
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(76,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(90,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(178,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(184,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(186,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(188,79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(191,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(233,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(238,80): warning C4101: 'datumIntegralni': unreferenced local variable
+C:\Users\Emir\source\repos\Ispit10\Ispit10\Ispit10.cpp(218): warning C4715: 'PretragaRekurzivno': not all control paths return a value
+  Ispit10.vcxproj -> C:\Users\Emir\source\repos\Ispit10\Debug\Ispit10.exe

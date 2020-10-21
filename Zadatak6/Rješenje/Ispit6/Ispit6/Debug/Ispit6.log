@@ -1,0 +1,13 @@
+﻿  Ispit6.cpp
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(104,56): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(116,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(119,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(126,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(131,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(147,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(150,24): warning C4018: '<': signed/unsigned mismatch
+  Ispit6.vcxproj -> C:\Users\Emir\source\repos\Ispit6\Debug\Ispit6.exe

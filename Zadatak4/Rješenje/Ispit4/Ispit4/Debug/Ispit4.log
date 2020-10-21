@@ -1,0 +1,12 @@
+﻿  Ispit4.cpp
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(89,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(99,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(140,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(159,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(178,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(215,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(244,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(316,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(398,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit4\Ispit4\Ispit4.cpp(422,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ispit4.vcxproj -> C:\Users\Emir\source\repos\Ispit4\Debug\Ispit4.exe

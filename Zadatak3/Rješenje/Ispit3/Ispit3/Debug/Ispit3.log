@@ -1,0 +1,7 @@
+﻿  Ispit3.cpp
+C:\Users\Emir\source\repos\Ispit3\Ispit3\Ispit3.cpp(137,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit3\Ispit3\Ispit3.cpp(167,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit3\Ispit3\Ispit3.cpp(216,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit3\Ispit3\Ispit3.cpp(240,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Emir\source\repos\Ispit3\Ispit3\Ispit3.cpp(272,21): warning C4101: 'izbori_FromFile': unreferenced local variable
+  Ispit3.vcxproj -> C:\Users\Emir\source\repos\Ispit3\Debug\Ispit3.exe

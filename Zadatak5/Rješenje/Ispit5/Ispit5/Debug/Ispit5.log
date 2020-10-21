@@ -1,0 +1,7 @@
+﻿  Ispit5.cpp
+C:\Users\Emir\source\repos\Ispit5\Ispit5\Ispit5.cpp(201,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit5\Ispit5\Ispit5.cpp(217,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit5\Ispit5\Ispit5.cpp(324,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit5\Ispit5\Ispit5.cpp(331,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit5\Ispit5\Ispit5.cpp(336,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ispit5.vcxproj -> C:\Users\Emir\source\repos\Ispit5\Debug\Ispit5.exe
